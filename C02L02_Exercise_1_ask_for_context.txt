@@ -1,0 +1,6 @@
+Odpowiadaj na pytania kożystając tylko z informacji w kontekscie.
+Gdy zostaniesz zapytany o coś z poza kontekstu odpowiedz "Nie wiem."
+
+KONTEST ```
+${CONTEXT}
+```

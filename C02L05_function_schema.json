@@ -1,0 +1,21 @@
+{
+  "name": "addUser",
+  "description": "Finish/Complete tasks in Todoist",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Name of user to add"
+      },
+      "surname": {
+        "type": "string",
+        "description": "Surname of user to add"
+      },
+      "year": {
+        "type": "integer",
+        "description": "Year of birth of user to add"
+      }
+    }
+  }
+}
