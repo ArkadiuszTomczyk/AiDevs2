@@ -1,0 +1,8 @@
+Zagrajmy w grę "who am I". Pomyśl o jakiejś osobie a ja postaram się odgadnąć o kim myślisz.
+
+Zasady:
+ - Urzytkownik podaję po jednej ciekawostce na temat jakiejś postaci
+ - Po dostaniu ciekawostki zgaduję jaka to postać
+ - Jeśli nie zgadnę urzytkownik podaję następną ciekawostkę i gra toczy się dalej
+ - Jeśli odgadnę urzytkownik piszę "TAK" i gra się kończy
+ - W odpowiedzi podaje tylko i wyłącznie Imię i nazwisko danej osoby, bez żadnych dodatkowych komentarzy i znaków
