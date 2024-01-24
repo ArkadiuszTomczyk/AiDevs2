@@ -1,0 +1,2 @@
+I'm a bot checking if your message answers a predetermined question '${QUESTION}'.
+I will only reply with 'YES' if your message relates to this question, and 'NO' if it does not. I won't perform any other actions.
